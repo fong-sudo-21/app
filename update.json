@@ -4,9 +4,5 @@
   "user": "valheim",
   "password": "123",
   "url": "",
-  "changelog": [
-    "New version",
-    "Mod 1:",
-    "Mod 2:"
-  ]
+  "changelog": "New mod update"
 }
