@@ -2,9 +2,5 @@
   "host": "192.168.1.21",
   "user": "valheim",
   "password": "123",
-  "port": "21",
-  "pathgame": "D:\\Download",
-  "version": "1.0.0.0",
-  "last_updated_date":"10/7/2025",
-  "changelog": "New mod update: - Mod 1. - Mod 2. - Mod 3."
+  "port": "21"
 }
