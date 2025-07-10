@@ -1,6 +1,6 @@
 {
   "host": "192.168.1.21",
+  "port": "21",
   "user": "valheim",
-  "password": "123",
-  "port": "21"
+  "password": "123"
 }
