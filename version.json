@@ -1,10 +1,12 @@
-{
+[
+  {
   "version": "0.0.0.1",
   "date_update": "05/07/2025",
   "changelog": "New mod update"
-},
-{
+  },
+  {
   "version": "0.0.0.2",
   "date_update": "10/07/2025",
   "changelog": "New mod update"
-}
+  }
+]
