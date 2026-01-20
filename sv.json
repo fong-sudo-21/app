@@ -1,6 +1,13 @@
 {
-  "host": "192.168.1.12",
-  "port": "2221",
-  "user": "valheim",
-  "password": "123"
+"version": "1.0.1",
+"date": "2026-01-20",
+"ftp": {
+"host": "192.168.1.55:2221",
+"username": "android",
+"password": "123"
+},
+"files": [
+"mod",
+"test.dll"
+]
 }
