@@ -1,13 +1,14 @@
 {
-"version": "1.0.1",
-"date": "2026-01-20",
-"ftp": {
-"host": "192.168.1.55:2221",
-"username": "android",
-"password": "123"
-},
-"files": [
-"mod",
-"test.dll"
-]
+  "version": "1.1.0",
+  "updateDate": "2024-01-20T10:00:00",
+  "files": [
+    "mod/",
+    "test.dll"
+  ],
+  "ftp": {
+    "host": "192.168.1.55",
+    "username": "android",
+    "password": "123",
+    "port": 2221
+  }
 }
