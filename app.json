@@ -2,8 +2,13 @@
   "version": "1.1.0",
   "updateDate": "2025-01-20",
   "files": [
-    "mod/",
-    "test.dll"
+    "BepInEx/",
+    "doorstop_libs/",
+    "changelog.txt",
+    "doorstop_config.ini",
+    "start_game_bepinex.sh",
+    "start_server_bepinex.sh",
+    "winhttp.dll"
   ],
   "ftp": {
     "host": "192.168.1.55",
@@ -12,5 +17,6 @@
     "port": 2221
   }
 }
+
 
 
